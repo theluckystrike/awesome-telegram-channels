@@ -16,6 +16,7 @@ Finding good Telegram channels is hard. This list points to hand-curated resourc
 
 ## Browse by Country
 
+- [@TinyTelegramToolsBot](https://t.me/TinyTelegramToolsBot) - Utility Telegram bot with a Mini App for everyday one-tap tools (notes, timers, converters).
 | | Country | Directory |
 |---|---|---|
 | 🇬🇧 | United Kingdom | https://tggroup.top/gb/ |
